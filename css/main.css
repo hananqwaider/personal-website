@@ -1,0 +1,52 @@
+/* start main rules*/
+body
+{
+	background:#DDD;
+	
+}
+.container 
+{ 
+width:940px;
+margin:20px auto;
+background:#FFF;
+}
+/*End main rules */
+/*start header */
+
+header
+{
+	height:100px;
+	background:#AAA;
+}
+header.logo
+{
+	height:100px;
+	background:#676767;
+	width:20%
+}
+header nav 
+{
+	height:100px;
+	background:#888;
+	width:80%;
+}
+
+
+/*End header */ 
+
+/*startcontent*/
+.content
+{
+	height:500px;
+	background:#BBB;
+
+}
+/*End content */ 
+/*startfooter*/
+footer
+{
+	height:100px;
+	background:#CCC;
+
+}
+/*End footer */ 
